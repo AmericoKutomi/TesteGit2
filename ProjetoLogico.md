@@ -1,0 +1,1 @@
+Esse é o projeto lógico a ser compartilhado no git.
